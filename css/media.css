@@ -1,61 +1,76 @@
-@media screen and (min-width:768px){
-				.heading{
-								font-size: 3rem ;
-				}
-				.upper-div{
-								margin-top: 1em;
-				}
-				.score-board h2{
-								font-size: 1rem;
-				}
-				.cell-wrapper{
-								margin: 3em auto;
-				}
-				.cell{
-								width: 120px;
-								height: 120px;
-								font-size: 5rem;
-				}
-				.hline{
-								width: 390px;
-								height: 5px;
-				}
-				.vline{
-								height: 390px;
-								width: 5px;
-				}
-				.vline1{
-								left: 120px;
-				}
-				.vline2{
-							 left:	245px;
-				}
-				.hline1{
-								top: 120px;
-				}
-				.hline2{
-								top: 245px;
-				}
-				.chance{
-								font-size: 2.5rem;
-				}
-				.btn{
-								font-size: 1.2em;
-								
-				}
-				.msg{
-								margin-top: 3.5em;
-				}
-				.btn-wrapper{
-								width: 100%;
-								display: flex;
-								justify-content: center;
-								align-content: center;
-				}
-				.status{
-								width: 340px;
-								height: 250px;
-								top: 49.5%;
-				}
-				
+@media screen and (min-width:768px) {
+    .heading {
+        font-size: 3rem;
+    }
+
+    .upper-div {
+        margin-top: 1em;
+    }
+
+    .score-board h2 {
+        font-size: 1rem;
+    }
+
+    .cell-wrapper {
+        margin: 3em auto;
+    }
+
+    .cell {
+        width: 120px;
+        height: 120px;
+        font-size: 5rem;
+    }
+
+    .hline {
+        width: 390px;
+        height: 5px;
+    }
+
+    .vline {
+        height: 390px;
+        width: 5px;
+    }
+
+    .vline1 {
+        left: 120px;
+    }
+
+    .vline2 {
+        left: 245px;
+    }
+
+    .hline1 {
+        top: 120px;
+    }
+
+    .hline2 {
+        top: 245px;
+    }
+
+    .chance {
+        font-size: 2.5rem;
+    }
+
+    .btn {
+        font-size: 1.2em;
+
+    }
+
+    .msg {
+        margin-top: 3.5em;
+    }
+
+    .btn-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+    }
+
+    .status {
+        width: 340px;
+        height: 250px;
+        top: 49.5%;
+    }
+
 }
